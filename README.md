@@ -1,3 +1,4 @@
+
 # Simple Chat Application in Go
 
 This repository contains the Go code for a simple chat application that supports basic user authentication and allows users to chat with each other in real-time over TCP.
@@ -44,6 +45,13 @@ To connect as a client, run the same command in a different terminal window. The
 ### As a Server
 
 Just start the server. It will handle incoming connections and facilitate the authentication and communication between connected clients.
+
+## Project Planning
+
+Overall, the planning for the project is outlined as follows:
+1. Finish implementation for chat functionality.
+2. Refactor code to enhance maintainability and performance.
+3. Optimize the main loop to make it passive for better resource management.
 
 ## Contributing
 
